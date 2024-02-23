@@ -10,7 +10,7 @@ _first create an .env file in the root folder_
 _put property and value like this_
 <br/>
 <br/>
-**MONGO_URL=mongodb+srv://username:password@cluster0.4hbi2he.mongodb.net/SignalWire**
+**MONGO_URL=mongourl
 
 currently this project is using my database. just replace by yours
 
